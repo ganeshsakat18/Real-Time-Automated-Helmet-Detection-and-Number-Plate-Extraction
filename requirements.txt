@@ -1,0 +1,9 @@
+pip install opencv-python
+pip install opencv-python-headless  # Optional, if running in headless environments
+pip install openpyxl
+pip install yolov8  # YOLOv8 package
+pip install smtplib
+pip install email-validator
+pip install pillow  # For image manipulation
+pip install matplotlib  # Optional, for displaying images and graphs
+pip install tkinter  # For GUI (Tkinter is pre-installed with Python on most systems)

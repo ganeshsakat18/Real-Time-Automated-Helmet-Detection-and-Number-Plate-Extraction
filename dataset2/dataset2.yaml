@@ -1,0 +1,10 @@
+# Paths to your dataset images
+train: C:/Users/user/Desktop/folder/dataset2/number_plate/train/images
+val: C:/Users/user/Desktop/folder/dataset2/number_plate/valid/images
+test: C:/Users/user/Desktop/folder/dataset2/number_plate/test/images # Optional, only for evaluation
+
+# Number of classes
+nc: 1 # Number of classes (helmet and no_helmet)
+
+# Class names (Adjusting the class IDs as per your request)
+names: ["number_plate"] # Class 0 is "no_helmet", and class 1 is "helmet"

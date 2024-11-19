@@ -1,0 +1,9 @@
+# Paths to your dataset images
+train: "C:\Users\user\Desktop\helmet detection.v1i.yolov8\train\images"
+val: "C:\Users\user\Desktop\helmet detection.v1i.yolov8\valid\images"
+test: "C:\Users\user\Desktop\helmet detection.v1i.yolov8\test\images"
+# Number of classes
+nc: 2 # Number of classes (helmet and no_helmet)
+
+# Class names (Adjusting the class IDs as per your request)
+names: ["no_helmet", "helmet"] # Class 0 is "no_helmet", and class 1 is "helmet"
